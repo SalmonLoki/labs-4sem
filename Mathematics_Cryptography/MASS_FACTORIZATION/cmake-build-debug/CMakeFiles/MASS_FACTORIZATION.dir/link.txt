@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MASS_FACTORIZATION.dir/main.cpp.o  -o MASS_FACTORIZATION 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krovlya/CLionProjects/SALESMEN_PROBLEM/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+deque
+-
+climits
+-
+set
+-
+

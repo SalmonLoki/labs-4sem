@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BIGDATA_SIMPLICITY_CHECK.dir/main.cpp.o  -o BIGDATA_SIMPLICITY_CHECK 

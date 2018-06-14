@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krovlya/CLionProjects/Математика, криптография/MORE_SIMPLE_3/main.cpp
+iostream
+-
+cmath
+-
+cstring
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HUNGARIAN.dir/main.cpp.o  -o HUNGARIAN 

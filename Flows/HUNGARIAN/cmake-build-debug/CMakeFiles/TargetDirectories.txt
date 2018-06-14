@@ -1,0 +1,3 @@
+/home/krovlya/CLionProjects/HUNGARIAN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/krovlya/CLionProjects/HUNGARIAN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/krovlya/CLionProjects/HUNGARIAN/cmake-build-debug/CMakeFiles/HUNGARIAN.dir

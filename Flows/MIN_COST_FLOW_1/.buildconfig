@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/krovlya/.cache/gnome-builder/install/MIN_COST_FLOW_1/host
+app-id=
+postbuild=
+prebuild=
+default=true

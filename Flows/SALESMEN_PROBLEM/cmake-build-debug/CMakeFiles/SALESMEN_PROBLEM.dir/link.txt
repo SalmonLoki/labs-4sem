@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SALESMEN_PROBLEM.dir/main.cpp.o  -o SALESMEN_PROBLEM 

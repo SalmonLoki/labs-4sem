@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krovlya/CLionProjects/MIN_COST_FLOW_1/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+deque
+-
+climits
+-
+

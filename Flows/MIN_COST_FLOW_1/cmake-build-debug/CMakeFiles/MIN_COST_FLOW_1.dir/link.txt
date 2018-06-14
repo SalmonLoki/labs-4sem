@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MIN_COST_FLOW_1.dir/main.cpp.o  -o MIN_COST_FLOW_1 

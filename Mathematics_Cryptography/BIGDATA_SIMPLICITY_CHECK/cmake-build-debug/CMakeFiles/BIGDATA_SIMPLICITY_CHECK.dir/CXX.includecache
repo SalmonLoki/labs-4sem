@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krovlya/CLionProjects/Математика, криптография/BIGDATA_SIMPLICITY_CHECK/main.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+cmath
+-
+algorithm
+-
+
